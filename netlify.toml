@@ -1,4 +1,4 @@
 [build]
-  command = "pip install -r requirements.txt && python tu_script.py"
-  functions = "nombre_de_tu_script.py"
-  publish = "ruta/a/tu/script.py"
+  command = "pip install -r requirements.txt && python app.py"
+  functions = "app.py"
+  publish = "app.py"
